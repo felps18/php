@@ -1,0 +1,8 @@
+#out{
+    outline: none;
+  }
+
+.form-control{
+    outline: none;
+    box-shadow: 0;
+}
